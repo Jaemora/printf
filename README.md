@@ -32,4 +32,4 @@ project by Wilson Nii Kwei & Issaka Abdul Rashid
 
 14. The flood of print has turned reading into a process of gulping rather than savoring
 
-15. All the above options work well together.
+15. * All the above options work well together.
